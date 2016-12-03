@@ -13,7 +13,7 @@ import com.google.android.youtube.player.YouTubeStandalonePlayer;
 
 public class StandaloneActivity extends AppCompatActivity
     implements View.OnClickListener{
-    private String GOOGLE_API_KEY = "";
+    private String GOOGLE_API_KEY = ""; 
     private String YOUTUBE_VIDEO_ID = "XiB4pqusHe0";
     private String YOUTUBE_PLAYLIST_ID = "PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG";
     private Button btnPlayVideo, btnPlayPlaylist;
